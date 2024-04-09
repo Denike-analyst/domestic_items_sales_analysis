@@ -24,6 +24,7 @@ These key questions were answered by analyzing the sales data:
 
 ### Analysis
 
+![Dashboard](Sales1.JPG)
 
 ### Results from Analysis
 
