@@ -35,7 +35,7 @@ These key questions were answered by analyzing the sales data:
 ### Recommendations
 
 1. The company should focus more on selling clothes and electronics.
-2. Invest in marketing at the peak sales period.
+2. Invest in marketing at the peak sales period in order to maximize profit.
 
 
   
