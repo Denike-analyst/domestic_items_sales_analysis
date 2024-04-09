@@ -24,12 +24,12 @@ These key questions were answered by analyzing the sales data:
 
 ### Analysis
 
-![Dashboard](Sales1.JPG)
+<img width="579" alt="Sales" src="https://github.com/Denike-analyst/item_sales/assets/163006247/69ae4d93-6f2e-490a-88f1-7d4180429deb">
 
 ### Results from Analysis
 
 1. The top category of produtt that made the highest profit was clothing.
-2. In year 2018, the company experienced loss, while they made $23,000 in 2019.
+2. In year 2018, the company experienced loss, while they made $25,754 in 2019.
 3. The company did not meet its sales target for both years.
 4. The peak sale period was between the last quarter of 2018 and the first quater of 2019.
 
