@@ -28,7 +28,7 @@ These key questions were answered by analyzing the sales data:
 
 ### Results from Analysis
 
-1. The top category of produtt that made the highest profit was clothing.
+1. The top category of product that made the highest profit was clothing.
 2. In year 2018, the company experienced loss, while they made $25,754 in 2019.
 3. The company did not meet its sales target for both years.
 4. The peak sale period was between the last quarter of 2018 and the first quater of 2019.
