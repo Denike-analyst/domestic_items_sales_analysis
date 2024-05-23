@@ -23,8 +23,7 @@ These key questions were answered by analyzing the sales data:
 - What are the peak sales period between 2018 and 2019?
 
 ### Dashboard Analysis
-
-<img width="579" alt="Sales" src="https://github.com/Denike-analyst/item_sales/assets/163006247/69ae4d93-6f2e-490a-88f1-7d4180429deb">
+[](Sales1.JPG)
 
 ### Results from Analysis
 
