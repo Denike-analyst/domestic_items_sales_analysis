@@ -23,7 +23,7 @@ These key questions were answered by analyzing the sales data:
 - What are the peak sales period between 2018 and 2019?
 
 ### Dashboard Analysis
-[](Sales1.JPG)
+![Dashboard](Sales1.JPG)
 
 ### Results from Analysis
 
